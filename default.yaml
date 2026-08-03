@@ -19,7 +19,7 @@ schema_list:
   - schema: double_pinyin_sogou    # 搜狗双拼
   - schema: double_pinyin_flypy    # 小鹤双拼
   - schema: double_pinyin_ziguang  # 紫光双拼
-
+  - schema: easy_en                # 英文输入法
 
 # 菜单
 menu:
@@ -32,7 +32,7 @@ menu:
 switcher:
   caption: 「方案选单」
   hotkeys:
-    - F4
+    - F5
     - Control+grave
     # - Alt+grave
     - Control+Shift+grave
